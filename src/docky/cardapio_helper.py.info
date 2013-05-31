@@ -1,0 +1,5 @@
+[CardapioHelper]
+Name=Cardapio
+Description=Opens Cardapio when you click the "anchor" icon 
+Icon=cardapio-dark256
+AppName=cardapio
